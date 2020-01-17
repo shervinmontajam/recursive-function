@@ -9,7 +9,7 @@ const menuListJson = [
     ]},
     {"id":"3","name":"Contact Us","items":[
         {"id":"3.1","name":"Sub Contact Us 1","items":[]},
-        {"id":"3.1","name":"Sub Contact Us 2","items":[
+        {"id":"3.2","name":"Sub Contact Us 2","items":[
             {"id":"3.2.1","name":"Sub Contact Us 2.1","items":[
                 {"id":"3.2.1.1","name":"Sub Contact Us 2.2.1","items":[]}]}
                 ,{"id":"3.2.2","name":"Sub Contact Us 2.2","items":[]}
